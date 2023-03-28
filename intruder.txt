@@ -1,0 +1,332 @@
+- Electronics & Technicalities 4
+CPU (Processor)
+GPU (Graphics Card)
+Motherboard
+RAM
+HDD
+SSD
+Keyboard
+Mouse
+Monitor
+CD
+DVD
+Microphone
+Flash Disk
+Touchscreen
+Tablet
+Smartphone
+Drawing Tablet
+Touchpad
+Camera
+USB
+VGA
+Wi-Fi
+Bluetooth
+Processor Architecture
+
+- Media 2
+Video Player
+Flash (SWF)
+Video
+Image
+Audio
+MP3
+JPEG
+PNG
+MP4
+Music
+Vector Graphics
+Animation
+Document
+
+- Internet & Social Media 2
+Spotify
+Facebook
+Twitter
+YouTube
+Instagram
+Discord
+TikTok
+Google
+Bing
+Search Engine
+Internet
+Website
+Article
+Memes
+
+- Crops, Food & Drinks 4
+Sandwich
+Hamburger
+Icecream
+Water
+Juice
+Wine
+Beer
+Salad
+Soup
+Vegetarian
+Soda
+Energy Drink
+Breakfast
+Dinner
+Lunch
+Meat
+Chicken
+Beef
+Lamb
+Chicken Nuggets
+Bread
+Croissant
+Chocolate
+Candy
+Gum
+Cake
+Cookies
+
+- Gaming & Video Games 10
+Celeste
+Platformer
+First Person Shooter
+Nintendo
+PlayStation
+Xbox
+Microsoft Studios
+Fortnite
+Minecraft
+Wii
+Wii U
+SEGA
+SEGA Megadrive
+SEGA Saturn
+Sonic
+Mario
+Zelda
+Link
+Luigi
+Resident Evil
+The Witcher
+Final Fantasy
+Castlevania
+Metroidvania
+Indie Games
+AAA Games
+Famicom
+Nintendo Entertainment System
+Super Nintendo Entertainment System
+Gamecube
+DS Controller (Any)
+Xbox Controller (Any)
+Exclusive Games
+Google Stadia
+Elden Ring
+Dark Souls
+Contra
+Metal Gear
+Tetris
+GoldenEye 007
+Halo
+Doom
+BioShock
+Half-Life
+RDR (Red Dead Revolver/Redemption)
+Pac-Man
+Grand Theft Auto
+Mass Effect
+The Last of Us
+Donkey Kong
+Diablo
+Metroid
+Portal
+The Elder Scrolls
+Silent Hill
+Chrono Trigger
+Bloodborne
+Sekiro: Shadows Die Twice
+Overwatch
+Dota
+League of Legends
+God of War
+Kingdom Hearts
+Death Stranding
+Stealth
+Combat
+RPG
+Open World
+Dungeon Crawler
+Roguelike / Roguelite
+
+- Celeste 15
+Strawberry
+Blue Heart
+Red Heart
+Gold Heart
+Satellite Puzzle
+Reflection Heart Puzzle
+Secret Dev Room (6a)
+Forsaken City (Chapter)
+Forsaken City A-Side
+Forsaken City B-Side
+Forsaken City C-Side
+Old Site (Chapter)
+Old Site A-Side
+Old Site B-Side
+Old Site C-Side
+Celestial Resort (Chapter)
+Celestial Resort A-Side
+Celestial Resort B-Side
+Celestial Resort C-Side
+Golden Ridge (Chapter)
+Golden Ridge A-Side
+Golden Ridge B-Side
+Golden Ridge C-Side
+Mirror Temple (Chapter)
+Mirror Temple A-Side
+Mirror Temple B-Side
+Mirror Temple C-Side
+Reflection (Chapter)
+Reflection A-Side
+Reflection B-Side
+Reflection C-Side
+The Summit (Chapter)
+The Summit A-Side
+The Summit B-Side
+The Summit C-Side
+Core (Chapter)
+Core A-Side
+Core B-Side
+Core C-Side
+Farewell
+1.3.2.1
+1.4.0.0
+Any%
+All Red Berries
+All Chapters
+100%
+Lockout Bingo
+Celeste Time Trials (CTT)
+Revo's Nonsense
+Depths Corner Boost (YEET)
+Crystal Spinners
+Key
+Oshiro
+Madeline
+Alex
+Theo
+Granny
+Celia
+Carlos
+Postcard
+Optional Theo Cutscene (City Campfire)
+Optional Theo Cutscene (Site Campfire)
+City End Cutscene
+Site Mirror Cutscene
+Intervention Cutscene
+Intervention Phone Cutscene
+Site End Phone Cutscene
+The Site Chase
+TAS Awake
+Chasm boost
+Zip Movers
+Dream Blocks
+Dust Bunnies
+Oshiro Ghost Cutscene (Resort Start)
+Oshiro Huge Mess Entry Cutscene
+Oshiro Huge Mess Cutscene #1
+Oshiro Huge Mess Cutscene #2
+Oshiro Huge Mess Cutscene #3
+Oshiro Huge Mess Exit Cutscene
+Oshiro Breakdown Cutscene (Elevator Shaft)
+Shaft Demo
+Huge Mess Skip
+Oshiro Presidential Suite Cutscene
+Oshiro Chase Start Cutscene
+Resort End Cutscene
+Ridge Granny Cutscene
+Ridge End Cutscene
+Temple Start Cutscene
+Temple Theo Phone Cutscene
+Temple Depths Mirror Cutscene
+Temple Mirror Dimension Cutscene
+Temple Unravelling Cutscenes
+Temple Rescue Cutscene
+Reflection Start Cutscene (Chat)
+Reflection Granny Cutscene
+Reflection Mirro Cutscene
+Feathers
+Bumpers
+Water
+Green Bubbles
+Red Bubbles
+Dash Switches (Buttons)
+Clouds
+Wind (Any)
+Search Skip
+Second Blockless
+Chad Ultra
+Autoscroller Skip Skip
+Kevin Blocks
+Kevin (Regamey)
+Maddy (Thorson)
+Noel (Berry)
+Amora (B.)
+Zkad
+Teej (TGH)
+Badeline
+Mental Health
+Pointless Machines (Heart Poem)
+Sever The SKyline (Heart Poem)
+Resurrections (Heart Poem)
+Black Moonrise (Heart Poem)
+Scattered and Lost (Heart Poem)
+Eye of The Storm (Heart Poem)
+Quiet and Falling (Heart Poem)
+Heavy and Frail (Heart Poem)
+Pink Sunrise (Heart Poem)
+Heart of The Mountain (Heart Poem)
+Sever The Skyline (Heart Poem)
+Black Moonrise (Heart Poem)
+Good Karma (Heart Poem)
+Golden Feather (Heart Poem)
+Mirror Magic (Heart Poem)
+Center of The Earth (Heart Poem)
+No More Running (Heart Poem)
+Say Goodbye (Heart Poem)
+First Steps (Music)
+Resurrections (Music)
+Checking In (Music)
+Spirit of Hospitality (Music)
+Scattered and Lost (Music)
+Golden (Music)
+Anxiety (Music)
+Quiet and Falling (Music)
+In The Mirror (Music)
+Starjump (Music)
+Reflection (Music)
+Confronting Myself (Music)
+Little Goth (Music)
+Secret Shrine (Music)
+Reach for The Summit (Music)
+Heart of The Mountain (Music)
+Exhale (Music)
+Sever The Skyline (Music)
+Black Moonrise (Music)
+Good Karma (Music)
+Golden Feather (Music)
+Mirror Magic (Music)
+Center of The Earth (Music)
+No More Running (Music)
+Say Goodbye (Music)
+The Empty Space Above (Music)
+Fear of The Unknown (Music)
+Joy of Remembrance (Music)
+In Stasis (Music)
+Beyond The Heart (Music)
+Final Defiance (Music)
+Reconcilliation (Music)
+Farewell (Music)
+The Womand and The Bird (Music)
+Vovô e Vov? (Music)
+Madeline and Theo (Music)
+My Dearest Friends (Music)
+Extremely OK Games
