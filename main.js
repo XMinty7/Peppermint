@@ -23,6 +23,7 @@ data.intruder.weights = data.intruder.entries.reduce((acc, x, i) => {
 }, 0);
 
 const config = require("./config.json");
+config.token = fs.readFileSync("token.txt");
 const { Client, Events, GatewayIntentBits, GuildMember, Message } = require("discord.js");
 
 const client = new Client({
